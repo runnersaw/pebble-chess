@@ -1,0 +1,164 @@
+{
+  "uuid": "f20bcfe4-5848-44d5-8010-f9cb3371a256",
+  "shortName": "chess",
+  "longName": "chess",
+  "companyName": "MakeAwesomeHappen",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [
+      {
+        "file": "images/chess_icon.png",
+        "name": "CHESS_ICON",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/black_bishop_in_black.png",
+        "name": "BLACK_BISHOP_BLACK",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/black_king_in_black.png",
+        "name": "BLACK_KING_BLACK",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/black_knight_in_black.png",
+        "name": "BLACK_KNIGHT_BLACK",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/black_pawn_in_black.png",
+        "name": "BLACK_PAWN_BLACK",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/black_queen_in_black.png",
+        "name": "BLACK_QUEEN_BLACK",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/black_rook_in_black.png",
+        "name": "BLACK_ROOK_BLACK",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/down_arrow.png",
+        "name": "DOWN_ARROW",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/black_bishop_in_white.png",
+        "name": "BLACK_BISHOP_WHITE",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/black_knight_in_white.png",
+        "name": "BLACK_KNIGHT_WHITE",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/black_pawn_in_white.png",
+        "name": "BLACK_PAWN_WHITE",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/black_queen_in_white.png",
+        "name": "BLACK_QUEEN_WHITE",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/black_rook_in_white.png",
+        "name": "BLACK_ROOK_WHITE",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/black_king_in_white.png",
+        "name": "BLACK_KING_WHITE",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/white_bishop_in_black.png",
+        "name": "WHITE_BISHOP_BLACK",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/white_king_in_black.png",
+        "name": "WHITE_KING_BLACK",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/white_knight_in_black.png",
+        "name": "WHITE_KNIGHT_BLACK",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/white_pawn_in_black.png",
+        "name": "WHITE_PAWN_BLACK",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/white_queen_in_black.png",
+        "name": "WHITE_QUEEN_BLACK",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/white_rook_in_black.png",
+        "name": "WHITE_ROOK_BLACK",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/white_bishop_in_white.png",
+        "name": "WHITE_BISHOP_WHITE",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/white_knight_in_white.png",
+        "name": "WHITE_KNIGHT_WHITE",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/white_pawn_in_white.png",
+        "name": "WHITE_PAWN_WHITE",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/white_queen_in_white.png",
+        "name": "WHITE_QUEEN_WHITE",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/white_rook_in_white.png",
+        "name": "WHITE_ROOK_WHITE",
+        "type": "bitmap"
+      },
+      {
+        "file": "images/white_king_in_white.png",
+        "name": "WHITE_KING_WHITE",
+        "type": "bitmap"
+      },
+      {
+        "file": "data/start_chess.raw",
+        "name": "START_CHESS",
+        "type": "raw"
+      },
+      {
+        "file": "data/chess.txt",
+        "name": "CHESS_ABOUT",
+        "type": "raw"
+      },
+      {
+        "file": "data/chess-instructions.txt",
+        "name": "CHESS_INSTRUCTIONS",
+        "type": "raw"
+      }
+    ]
+  }
+}
